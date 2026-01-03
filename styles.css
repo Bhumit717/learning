@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.title {
+	color: RED;
+}
+.firstbar{
+  height: auto;
+
+  background-color: #d5e3e3;
+  margin: 0;
+}
+h1, h2, h3, h4, h5, h6{
+  margin: 0;
+}
+.number,.email{
+  background: none;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+.mainbar{
+  height: auto;
+border: 1px solid black;
+border-radius: 20px;
+border-top: none;
+border-left: none;
+border-right: none;
+}
+.dabo{
+  width: 80%;
+}
+.tranvastu{
+  gap: 10;
+  display: flex;
+  padding: 30px;
+  border:1px solid yellow;
+  background-color: #fcf9d4;
+}
+.products img{
+width:100%;
+  
+}
+.products{
+  border-top:1px solid yellow;
+
+  border-radius: 20px;
+ box-shadow: 3px 3px  3px green;
+
+}
